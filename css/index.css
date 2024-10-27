@@ -2,7 +2,6 @@
 
 :root {
 /*  Colors  */
-  --linkedin: #0077b5;
   --instagram: #e1306c;
   --Email: #6c757d;
   --instagram_gradient: radial-gradient(
@@ -281,12 +280,9 @@ input:checked + .slider:before {
 /* Button Hover Background Colors */
 
 .wrapper .button:nth-child(1) .icon::before {
-  background: var(--linkedin);
-}
-.wrapper .button:nth-child(2) .icon::before {
     background: var(--instagram_gradient);
 }
-.wrapper .button:nth-child(3) .icon::before {
+.wrapper .button:nth-child(2) .icon::before {
   background: var(--Email);
 }
 
@@ -315,12 +311,9 @@ input:checked + .slider:before {
 /* Button Text Color */
 
 .wrapper .button:nth-child(1) span {
-    color: var(--linkedin);
-}
-.wrapper .button:nth-child(2) span {
     color: var(--instagram);
 }
-.wrapper .button:nth-child(3) span {
+.wrapper .button:nth-child(2) span {
   color: var(--Email);
 }
 
