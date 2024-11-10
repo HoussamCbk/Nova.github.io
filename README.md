@@ -1,6 +1,6 @@
 #**VOTE-For-NOVA**
 
-![Arts & Crafts Aeronautics linktree website](https://github.com/HoussamCbk/A-C-Aeronautics.github.io/blob/main/preview.png)
+![NOVA linktree website](https://github.com/HoussamCbk/Nova.github.io/blob/main/previewnova.png)
 
 # 🔗 Nova website
 
@@ -16,11 +16,15 @@ linktree-clone/
 ├── LICENSE.md                # Licensing information for the project
 ├── README.md                 # Documentation and instructions for the project
 ├── index.html                # Main HTML file 
-├── preview.png               # Preview image of the Linktree clone interface
-├── aerologo.png              # Logo picture to be displayed on the page
-└── skeleton-dark.css         # CSS file for styling 
-└── normalize.css             # CSS file for styling 
-└── brands.css                # CSS file for styling 
+├── previewnova.png           # Preview image of the Linktree clone interface
+├── novalogonight.jpg         # Logo picture to be displayed on the page
+└── index.css                 # CSS file for styling 
+└── main.css                  # CSS file for styling 
+└── index.jx                  # java script file
+└── manifest.json             # json file
+└── bgvid.mp4                 # background
+└── Plan d'action NOVA.pdf    # Action Plan of Nova
+
 ```
 
 ## 📄 License
